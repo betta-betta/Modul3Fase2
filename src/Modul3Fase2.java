@@ -12,7 +12,7 @@ public class Modul3Fase2 {
 		String ciutat6;
 		Scanner  nomCiutat = new Scanner(System.in);
 
-	    System.out.println("Introduiex el nom de la 1ª ciutat");
+	    System.out.println("Introduiex el nom de la 1ª ciutat ");
 	    ciutat1 = nomCiutat.nextLine();
 	    System.out.println("Introduiex el nom de la 2ª ciutat");
 	    ciutat2 = nomCiutat.nextLine();
